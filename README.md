@@ -15,4 +15,4 @@ Thirdly, this research will identify which explanatory variables are relevant to
 
 The raw data used for pre-processing is a dataset related to the article of Rajabi et al., 2022. Afterwards, new built-in variables were added, and feature engineering was proceeded to enrich the original dataset.
 
-Last of all, this project is organized into four files. One presents all the necessary pre-processing for modelling. Each of the remaining files explains all the modelling processes for GLSAR, LSTM and DNN.
+This project is organized into four files. One presents all the necessary pre-processing for modelling. Each of the remaining files explains all the modelling processes for GLSAR, LSTM and DNN.
